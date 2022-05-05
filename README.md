@@ -16,4 +16,4 @@
 
 ## Screenshots
 
-![](main-screen.png)
+![](Screenshots/main-screen.png)
