@@ -13,3 +13,7 @@
  * Share the source of the news
  * Custom Alert Screen
  * Pagination
+
+## Screenshots
+
+![](main-screen.png)
