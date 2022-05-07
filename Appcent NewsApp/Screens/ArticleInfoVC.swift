@@ -158,7 +158,7 @@ class ArticleInfoVC: UIViewController {
                                 guard let self = self else { return }
 
                                 guard let error = error else {
-                                    self.presentNAAlertOnMainThread(title: "Success", message: "You have successfully favorited this user", buttonTitle: "Ok")
+                                    self.presentNAAlertOnMainThread(title: "Success", message: "You have successfully favorited this article", buttonTitle: "Ok")
                                     return
                                 }
                                 self.presentNAAlertOnMainThread(title: "Something went wrong", message: error.rawValue, buttonTitle: "Ok")
